@@ -1,0 +1,36 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    display: flex;
+    gap: 150px;
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 50px 240px 0px 240px;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    ;
+    font-weight: 800;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.button {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 45px;
+    border: 0;
+    color: white;
+}
