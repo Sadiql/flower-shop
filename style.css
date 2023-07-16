@@ -36,7 +36,8 @@ body {
     font-size: 20px;
     font-weight: 700;
 }
-.our-featured-flowers{
+
+.our-featured-flowers {
     margin-top: 178px;
 }
 
@@ -129,13 +130,27 @@ body {
 }
 
 #sign-up-button {
-    margin-top: 32px; 
+    margin-top: 32px;
     margin-left: 45%;
 
 }
-.flower-image-instagram{
+
+.flower-image-instagram {
     display: flex;
     justify-content: space-between;
     margin: 48px 240px 128px 240px;
     gap: 24px;
+}
+
+.input-email {
+    border-radius: 8px;
+    background: #FFF;
+    padding: 23px 500px 22px 23px;
+}
+
+.subscribe-area {
+    background-image: url('Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 128px 240px;
+    padding: 122px 287px;
 }
