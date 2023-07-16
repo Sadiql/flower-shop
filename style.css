@@ -173,6 +173,7 @@ nav a {
 
 .input-email {
     border-radius: 8px;
+    border: none;
     background: #FFF;
     padding: 23px 500px 22px 23px;
 }
