@@ -125,7 +125,7 @@ body {
     margin-bottom: 128px;
 }
 
-.sale-off {
+.span {
     color: #E55473;
 }
 
@@ -153,4 +153,36 @@ body {
     background-repeat: no-repeat;
     margin: 128px 240px;
     padding: 122px 287px;
+}
+
+.input-email {
+    margin-top: 20px;
+}
+
+.footer {
+    background: #111010;
+    padding: 210px 650px;
+}
+
+.footer-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.copyright-massage {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 25%;
 }
