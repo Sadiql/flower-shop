@@ -34,3 +34,76 @@ body {
     border: 0;
     color: white;
 }
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    width: 594px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0 auto;
+}
+
+.flower {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    text-decoration: underline;
+    gap: 24px;
+    margin: 50px 240px 0px;
+
+}
+
+.flower-image1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+}
+
+.flower-image2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px;
+}
+
+.flower-image3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0px 75px;
+}
+.service-container{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 240px;
+    justify-content: space-between;
+    padding: 86px 175px;
+
+}
+ .service-title { 
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.delivery-image {
+    padding: 0px 178px 0px 200px;
+}
+
+.fresh-flower-image {
+    padding: 0px 135px 0px 130px;
+}
+
+.support-image {
+    padding: 0px 85px 0px 80px;
+}
+
